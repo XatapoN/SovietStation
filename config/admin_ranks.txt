@@ -1,0 +1,71 @@
+########################################################################################
+# ADMIN RANK DEFINES                                                                   #
+# The format of this is very simple. Rank name goes first.                             #
+# Rank is CASE-SENSITIVE, all punctuation will be stripped so spaces don't matter.     #
+# Each rank is then followed by keywords with the prefix "+".                          #
+# These keywords represent groups of verbs and abilities which are given to that rank. #
+# +@ (or +prev) is a special shorthand which adds all the rights of the rank above it. #
+# Ranks with no keywords will just be given the most basic verbs and abilities   ~Carn #
+########################################################################################
+# PLEASE NOTE: depending on config options, some abilities will be unavailable regardless if you have permission to use them!
+# ALSO NOTE: this is a WorkInProgress at the moment. Most of this is just arbitrarily thrown in whatever group because LoadsaWork2Do+LittleTime.
+#            I'll be doing more moving around as feedback comes in. So be sure to check the notes after updates.
+
+# KEYWORDS:
+# +ADMIN = general admin tools, verbs etc
+# +FUN = events, other event-orientated actions. Access to the fun secrets in the secrets panel.
+# +BAN = the ability to ban, jobban and fullban
+# +STEALTH = the ability to stealthmin (make yourself appear with a fake name to everyone but other admins
+# +POSSESS = the ability to possess objects
+# +REJUV (or +REJUVINATE) = the ability to heal, respawn, modify damage and use godmode
+# +BUILD (or +BUILDMODE) = the ability to use buildmode
+# +SERVER = higher-risk admin verbs and abilities, such as those which affect the server configuration.
+# +DEBUG = debug tools used for diagnosing and fixing problems. It's useful to give this to coders so they can investigate problems on a live server.
+# +VAREDIT = everyone may view viewvars/debugvars/whatever you call it. This keyword allows you to actually EDIT those variables.
+# +RIGHTS (or +PERMISSIONS) = allows you to promote and/or demote people.
+# +SOUND (or +SOUNDS) = allows you to upload and play sounds
+# +SPAWN (or +CREATE) = mob transformations, spawning of most atoms including mobs (high-risk atoms, e.g. blackholes, will require the +FUN flag too)
+# +EVERYTHING (or +HOST or +ALL) = Simply gives you everything without having to type every flag
+
+Admin Observer
+Admin Candidate	+ADMIN +BAN
+Trial Admin		+@ +SPAWN +REJUV +VAREDIT
+Badmin			+@ +POSSESS +BUILDMODE +FUN +SERVER
+Game Admin		+@ +RIGHTS
+
+
+Monarch	+HOST
+Secretary	+ALL
+
+Officer +ADMIN +BAN
+
+Inquisitor +MOD
+
+Pityshok
+
+Foreign Trial Admin +ADMIN +BAN +REJUV +VAREDIT
+
+Head Developer +ADMIN +SPAWN +FUN +STEALTH +VAREDIT +REJUV +BUILD +POSSES +SERVER +DEBUG
+
+Coder			+ADMIN +VAREDIT +SERVER +SPAWN +STEALTH
+
+Soviet General +ADMIN +BAN +STEALTH +VAREDIT +REJUV +FUN +BUILD +SPAWN +POSSESS +SOUND +SERVER
+Event Master	+ADMIN +BAN +STEALTH +VAREDIT +REJUV +FUN +BUILD +SPAWN +POSSESS +SOUND +SERVER
+Spriter	+ADMIN +BAN +VAREDIT +REJUV +FUN +BUILD +SPAWN +SERVER
+Maper		+ADMIN +BAN +SERVER +STEALTH +BUILD +SPAWN +VAREDIT +FUN
+Vegetable Admin    +ADMIN +BAN + VAREDIT + FUN + SPAWN
+Commisioner +ADMIN +BAN +VAREDIT +SPAWN +FUN +BUILDMODE +SERVER +REJUV +POSSESS +STEALTH
+Retired Admin +MOD
+Caretaker +ADMIN
+Moderator +MOD +BAN
+Referent +ADMIN +BAN
+Helper +MOD
+
+Head Mapper  +ADMIN +BAN +SERVER +STEALTH +BUILD +SPAWN +VAREDIT +FUN
+Head Coder  +ADMIN +BAN +BUILD +VAREDIT +SPAWN +STEALTH +SERVER +FUN
+Developer 5 lvl  +ADMIN +BAN +BUILD +VAREDIT +SPAWN +STEALTH +SERVER
+Developer 4 lvl  +ADMIN +VAREDIT +SPAWN +STEALTH
+Developer 3 lvl  +ADMIN +VAREDIT +SPAWN
+Developer 2 lvl  +ADMIN +VAREDIT
+Developer 1 lvl  +MOD
+Developer 0 lvl

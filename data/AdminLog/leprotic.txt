@@ -1,0 +1,11 @@
+2014-05-07-(08-07-28):banned grifer from Geneticist
+2014-05-07-(08-07-28):banned grifer from Captain
+2014-05-07-(08-07-28):banned grifer from Head of Personnel
+2014-05-07-(08-07-28):banned grifer from Head of Security
+2014-05-08-(09-47-44):banned medbed from Captain, Head of Personnel, Head of Security, Chief Engineer, Research Director, Chief Medical Officer
+2014-05-08-(09-48-35):banned medbed from Warden, Detective, Security Officer
+2014-05-08-(09-48-35):banned medbed from Station Engineer, Atmospheric Technician
+2014-05-08-(09-48-35):banned medbed from Scientist, Geneticist, Roboticist, Xenobiologist
+2014-05-08-(09-53-42): banned . Reason: Griefer. Duration 1440 minutes.
+2014-05-08-(09-54-33): banned medbed. Reason: Griefer. Duration 1440 minutes.
+2014-05-08-(18-37-39): banned ted201. Reason: Спустил вардена в мусорку за то что тот его арестовал и оффнулсЯ. А мусорка вела в космос.. Duration 600 minutes.
