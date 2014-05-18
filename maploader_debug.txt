@@ -1,0 +1,3281 @@
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/alien/weeds/node @ (28, 37, 7)  fields:
+	Failure /obj/item/clothing/mask/facehugger @ (34, 36, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 7), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 7)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 7)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 7)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 7)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 8), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn @ (219, 230, 8)  fields:
+	Failure /obj/effect/step_trigger/trap/fake @ (220, 230, 8)  fields:
+	Failure /obj/effect/landmark/loot_spawn/low @ (45, 226, 8)  fields:
+	Failure /obj/effect/landmark/glowshroom_spawn @ (45, 210, 8)  fields:
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn/low @ (52, 24, 16)  fields:
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn/low @ (52, 24, 16)  fields:
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn/low @ (52, 24, 16)  fields:
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn/low @ (52, 24, 16)  fields:
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/landmark/loot_spawn/low @ (52, 24, 16)  fields:
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 16), 100 tiles per second.
+	Building turf array.
+Starting Map Load @ (0, 0, 12), 100 tiles per second.
+	Building turf array.
+	Failure /obj/effect/gibspawner/generic @ (46, 55, 12)  fields:
+	Failure /obj/effect/gibspawner/human @ (58, 44, 12)  fields:
+	Failure /obj/effect/gibspawner/xeno @ (34, 41, 12)  fields:
+	Failure /obj/effect/gibspawner/robot @ (31, 34, 12)  fields:

@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: maps\tgstation2.dmm;code\modules\clothing\suits\miscellaneous.dm;icons\obj\walllocker.dmi;icons\obj\watercloset.dmi;icons\obj\terminals.dmi;icons\obj\tank.dmi;icons\obj\telescience.dmi;icons\obj\stationobjs.dmi;icons\obj\module.dmi;icons\obj\objects.dmi;icons\misc\fullscreen_halloween.dmi;icons\misc\fullscreen_original.dmi;icons\misc\fullscreen.dmi;icons\misc\imap.dmi;icons\misc\static.dmi;icons\mob\mob.dmi;icons\mob\ties.dmi;icons\mob\uniform.dmi;icons\mob\suit.dmi;icons\mob\head.dmi;icons\obj\clothing\suits.dmi;icons\obj\library.dmi;icons\obj\lockwall.dmi;icons\obj\magic.dmi;icons\obj\mainframe.dmi;icons\obj\meteor.dmi;icons\obj\meter.dmi;code\modules\mob\living\carbon\human\human_damage.dm;code\modules\mob\living\carbon\human\human_defense.dm;code\modules\projectiles\projectile\energy.dm
+LAST_COMPILE_VERSION: 503.1224
+DIR: code code\datums\diseases code\datums\spells code\defines\obj code\game\area code\game\gamemodes\events code\game\gamemodes\wizard code\game\jobs\job code\game\mecha\combat code\game\objects code\game\objects\items\weapons code\modules code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\projectiles code\modules\projectiles\projectile code\WorkInProgress icons icons\misc icons\mob icons\obj icons\obj\clothing maps 
+FILE: icons\obj\watercloset.dmi
+LAST_COMPILE_TIME: 1390999280
+AUTO_FILE_DIR: OFF
+*/
+// END_INTERNALS
