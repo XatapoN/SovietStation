@@ -1,0 +1,150 @@
+"aa" = (/turf/unsimulated/jungle/rock,/area/jungle)
+"ab" = (/turf/unsimulated/jungle,/area/jungle)
+"ac" = (/turf/unsimulated/jungle/water/deep,/area/jungle)
+"ad" = (/turf/unsimulated/jungle/impenetrable,/area/jungle)
+"ae" = (/obj/structure/largecrate,/turf/unsimulated/jungle/clear,/area/jungle)
+"af" = (/obj/structure/closet/crate/secure/gear,/obj/item/weapon/extinguisher,/obj/item/weapon/minihoe,/turf/unsimulated/jungle/clear,/area/jungle)
+"ag" = (/turf/unsimulated/jungle/clear,/area/jungle)
+"ah" = (/obj/structure/stool/bed/roller,/turf/unsimulated/floor,/area/jungle)
+"ai" = (/obj/item/weapon/storage/firstaid,/turf/unsimulated/floor,/area/jungle)
+"aj" = (/obj/structure/stool,/turf/unsimulated/jungle/clear,/area/jungle)
+"ak" = (/turf/unsimulated/floor,/area/jungle)
+"al" = (/obj/item/trash/chips,/turf/unsimulated/jungle/clear,/area/jungle)
+"am" = (/obj/item/trash/pistachios,/turf/unsimulated/jungle/clear,/area/jungle)
+"an" = (/obj/item/weapon/firstaid_arm_assembly,/turf/unsimulated/jungle/clear,/area/jungle)
+"ao" = (/obj/structure/barricade/wooden,/obj/structure/sign/redcross,/turf/unsimulated/floor,/area/jungle)
+"ap" = (/obj/machinery/gateway{tag = "icon-off (NORTHWEST)"; icon_state = "off"; dir = 9},/turf/unsimulated/floor,/area/jungle)
+"aq" = (/obj/machinery/gateway{tag = "icon-off (NORTH)"; icon_state = "off"; dir = 1},/turf/unsimulated/floor,/area/jungle)
+"ar" = (/obj/machinery/gateway{tag = "icon-off (NORTHEAST)"; icon_state = "off"; dir = 5},/turf/unsimulated/floor,/area/jungle)
+"as" = (/obj/structure/barricade/wooden,/turf/unsimulated/jungle/clear,/area/jungle)
+"at" = (/obj/structure/rack,/obj/item/weapon/storage/pill_bottle/antitox,/turf/unsimulated/floor,/area/jungle)
+"au" = (/obj/structure/rack,/turf/unsimulated/floor,/area/jungle)
+"av" = (/obj/machinery/gateway{tag = "icon-off (WEST)"; icon_state = "off"; dir = 8},/turf/unsimulated/floor,/area/jungle)
+"aw" = (/obj/machinery/gateway/centeraway,/turf/unsimulated/floor,/area/jungle)
+"ax" = (/obj/machinery/gateway{tag = "icon-off (EAST)"; icon_state = "off"; dir = 4},/turf/unsimulated/floor,/area/jungle)
+"ay" = (/obj/structure/reagent_dispensers,/turf/unsimulated/jungle/clear,/area/jungle)
+"az" = (/obj/structure/rack,/obj/item/weapon/pen,/turf/unsimulated/floor,/area/jungle)
+"aA" = (/obj/machinery/gateway{tag = "icon-off (SOUTHWEST)"; icon_state = "off"; dir = 10},/turf/unsimulated/floor,/area/jungle)
+"aB" = (/obj/machinery/gateway,/turf/unsimulated/floor,/area/jungle)
+"aC" = (/obj/machinery/gateway{tag = "icon-off (SOUTHEAST)"; icon_state = "off"; dir = 6},/turf/unsimulated/floor,/area/jungle)
+"aD" = (/obj/item/trash/raisins,/turf/unsimulated/jungle/clear,/area/jungle)
+"aE" = (/obj/structure/closet/crate/secure/gear,/obj/item/weapon/hatchet,/turf/unsimulated/jungle/clear,/area/jungle)
+"aF" = (/obj/effect/landmark{name = "awaystart"},/turf/unsimulated/jungle,/area/jungle)
+"aG" = (/obj/effect/landmark/path_waypoint,/turf/unsimulated/jungle/clear,/area/jungle)
+"aH" = (/obj/item/trash/sosjerky,/turf/unsimulated/jungle/clear,/area/jungle)
+"aI" = (/obj/item/trash/chips,/turf/unsimulated/floor,/area/jungle)
+"aJ" = (/obj/effect/landmark/river_waypoint,/turf/unsimulated/jungle/water/deep,/area/jungle)
+"aK" = (/obj/item/weapon/secbot_assembly,/turf/unsimulated/jungle/clear,/area/jungle)
+"aL" = (/obj/item/trash/candy,/turf/unsimulated/jungle/clear,/area/jungle)
+"aM" = (/obj/item/weapon/rack_parts,/turf/unsimulated/floor,/area/jungle)
+"aN" = (/obj/structure/barricade/wooden,/obj/structure/sign/securearea{desc = "A warning sign which reads 'DANGEROUS WILDLIFE'. Sounds like some of the local fauna are vicious."; name = "DANGEROUS WILDLIFE"},/turf/unsimulated/jungle/clear,/area/jungle)
+"aO" = (/obj/structure/largecrate,/turf/unsimulated/floor,/area/jungle)
+"aP" = (/obj/effect/landmark{name = "awaystart"},/obj/effect/landmark{name = "awaystart"},/turf/unsimulated/jungle,/area/jungle)
+"aQ" = (/obj/structure/barricade/wooden,/turf/unsimulated/jungle,/area/jungle)
+"aR" = (/turf/unsimulated/jungle/clear,/area/jungle/crash_ship_three)
+"aS" = (/turf/unsimulated/jungle/path,/area/jungle)
+"aT" = (/obj/item/weapon/shard,/turf/unsimulated/jungle/path,/area/jungle)
+"aU" = (/obj/effect/landmark/loot_spawn/low,/turf/unsimulated/jungle/path,/area/jungle)
+"aV" = (/obj/item/weapon/shard{icon_state = "small"},/turf/unsimulated/jungle/path,/area/jungle)
+"aW" = (/turf/unsimulated/jungle/path,/turf/simulated/shuttle/wall{tag = "icon-swall_f6"; icon_state = "swall_f6"; dir = 2},/area/jungle)
+"aX" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/turf/unsimulated/floor,/area/jungle)
+"aY" = (/obj/structure/grille,/turf/unsimulated/floor,/area/jungle)
+"aZ" = (/obj/structure/grille{density = 0; icon_state = "brokengrille"},/turf/unsimulated/floor,/area/jungle)
+"ba" = (/obj/structure/grille,/obj/structure/window/reinforced,/turf/unsimulated/floor,/area/jungle)
+"bb" = (/turf/unsimulated/jungle/path,/turf/simulated/shuttle/wall{dir = 3; icon_state = "swall_f10"; layer = 2; tag = "icon-swall_f10"},/area/jungle)
+"bc" = (/turf/simulated/shuttle/wall{tag = "icon-swall3"; icon_state = "swall3"; dir = 2},/area/jungle)
+"bd" = (/obj/effect/landmark/loot_spawn/low,/turf/unsimulated/floor,/area/jungle)
+"be" = (/obj/item/weapon/hatchet,/turf/unsimulated/floor,/area/jungle)
+"bf" = (/obj/item/weapon/shard{icon_state = "small"},/turf/unsimulated/floor,/area/jungle)
+"bg" = (/obj/structure/girder,/turf/unsimulated/floor,/area/jungle)
+"bh" = (/obj/item/weapon/shard{icon_state = "medium"},/turf/unsimulated/jungle/path,/area/jungle)
+"bi" = (/obj/item/weapon/cell,/turf/unsimulated/floor,/area/jungle)
+"bj" = (/obj/structure/grille{density = 0; icon_state = "brokengrille"},/turf/unsimulated/jungle/path,/area/jungle)
+"bk" = (/obj/structure/rack,/obj/item/weapon/storage/toolbox/mechanical,/turf/unsimulated/floor,/area/jungle)
+"bl" = (/obj/effect/landmark/path_waypoint,/turf/unsimulated/floor,/area/jungle)
+"bm" = (/obj/structure/rack,/obj/item/weapon/storage/toolbox/emergency,/turf/unsimulated/floor,/area/jungle)
+"bn" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/turf/unsimulated/floor,/area/jungle)
+"bo" = (/obj/item/weapon/storage/firstaid/regular,/turf/unsimulated/jungle/path,/area/jungle)
+"bp" = (/turf/unsimulated/jungle/path,/turf/simulated/shuttle/wall{tag = "icon-swall_f5"; icon_state = "swall_f5"; dir = 2},/area/jungle)
+"bq" = (/obj/structure/rack,/obj/item/weapon/storage/toolbox/electrical,/turf/unsimulated/floor,/area/jungle)
+"br" = (/turf/simulated/shuttle/wall{tag = "icon-swall12"; icon_state = "swall12"; dir = 2},/area/jungle)
+"bs" = (/turf/unsimulated/jungle/path,/turf/simulated/shuttle/wall{tag = "icon-swall_f9"; icon_state = "swall_f9"; dir = 2},/area/jungle)
+"bt" = (/obj/machinery/jungle_controller,/turf/unsimulated/jungle/rock,/area/jungle)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaabababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadad
+aaaaaaaaaaaaaaaaaaaaabababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadad
+aaaaaaaaaaaaaaaaaaaaabababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababadadadadadadadadadadadadadadadadadadadadad
+aaaaaaaaaaaaaaaaaaaaababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababadadadadadadadadadaeafagagaeaeadadadadadad
+aaaaaaaaaaaaaaaaaaaaababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacabababababababadadadadaeahaiajajagagagagagagagagadadadad
+aaaaaaaaaaaaaaaaaaaaabababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacabababababababadadadaeagakakalagakakagamagagagagagadadad
+aaaaaaaaaaaaaaaaaaaaabababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacabababababababadadadagaganagagagaoakagagapaqaragagadadad
+aaaaaaaaaaaaaaaaaaaaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacabababababababadadasaeatauakagagagagagavawaxagagayadad
+aaaaaaaaaaaaaaaaaaaaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacabababababababababasagakauazagagagagagaAaBaCagagagadad
+aaaaaaaaaaaaaaaaaaaaababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacabababababababababagagagagagagagaDagagagagagagagagadad
+aaaaaaaaaaaaaaaaaaaaababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababagagagagagagagagagagagagagagaEadad
+aaaaaaaaaaaaaaaaaaaaabababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacabababababaFababababagaGaHagagagagagagagaIakakagaeadad
+aaaaaaaaaaaaaaaaaaaaababababababababababababababababacacacacacacacacacacacacacacacacacacacacaJacabababababababababababagagagaKagakakaLagaMaMakagaeadad
+aaaaaaaaaaaaaaaaaaaaabababababababababababababababababacacacacacacacacacacacacacacacacacacacacacabababababababababababaNagagagagaOaOagagagagagagadadad
+aaaaaaaaaaaaaaaaaaaaababababababababababababababababababacacacacacacacacacacacacacacacacacacacacacabababababaFaPaFaFabababasasagagagagagagagagagadadad
+aaaaaaaaaaaaaaaaaaaaababababababababababababababababababacacacacacacacacacacacacacacacacacacacacacabababababaFaFaFaFabababababagagasagagagaeaeadadadad
+aaaaaaaaaaaaaaaaaaaaabababababababababababababababababababacacacacacacacacacacacacacacacacacacacacabababababaFaFaFaFabababababababadadadadadadadadadad
+aaaaaaaaaaaaaaaaaaaaababababababababababababababababababababacacacacacacacacacacacacacacacacacacacacababababaFaFaFaFabababababababadadadadadadadadadad
+aaaaaaaaaaaaaaaaaaaaababababababababababababababababababababaJacacacacacacacacacacacacacacacacacacacababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababacacacacacacacacacacacacacacacacacacabababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababacacacacacacacacacacacacacacacacacaQababababababababababababacacacacabababababab
+aaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababaJacacacacacabacacacacacacacacacaQababababababababababaJacacacacacacacabababab
+aaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababacacacacacacacabababaQababababababacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababacacacababababababababababacacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababaQaQaQacacacacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababaQabababababababacacacacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababaQabaQaQabababacacacacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacac
+aaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababaJacacacacacacacacac
+aaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacac
+aaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacacac
+aaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababacacacacacacac
+aaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababacacac
+aaaaaaaaaaaaaaaaabababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababac
+aaaaaaaaaaaaaaaaabababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababac
+aaaaaaaaaaaaaaaaabababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRabababababababababaSaTaSaSaSaUaSaSaSaSababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababababaSaUaSaSaUaSaSaVaSaSaSaSabababababababababababababababababab
+aaaaaaaaaaaaaaaaaaababababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababaSaSaUaSaSaWaXaYaZbabbaUaSaTaSababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaabababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababaSaSaSaSaSbcbdakakaSakaSaSaUaSababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaabababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababaSaSbdaSaUbcbdbebfakbgaSaSaSaSaSabababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaabababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababaSaSbhaSaSbcbdaUbiakbcaSaUaSaUaSabababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaabababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababaSaSaUaSaSbgbdbdaUbfbcaSaSaSaSaSaSababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababaSaSaSaSaSbjakbdaUbdbcaSbdaSaVaSaSababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaababababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababaSaSaSaSbkaSaTblakbmbnaSbdaSaSaSaSababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaabababababaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRababababababaSaUaSaSakaSaSaUaUaUakakaSaSaSaSaSababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababaSaSaSaUbcbdaSakbdboaSaSaSaSaSaUaSababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababaSaSaSaSbcbdaSaSbdaSbdbcaSaSaSaSaSababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababaSaUaSbpaSaSaSaSaTbdbcaSaUaSaSabababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababaSbdaSaTbqakaUaSbrbsaSaSaSababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababaSbhaUaSaSaSaSaUaSaUaSabababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaabababababababababaSaSaUaSaSaSaSaSababababababababababaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+btaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
