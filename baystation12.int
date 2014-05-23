@@ -1,10 +1,10 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\tgstation2.dmm
+WINDOW: code\defines\obj\hydro.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\datums\diseases code\datums\spells code\defines\obj code\game\area code\game\gamemodes\events code\game\gamemodes\wizard code\game\jobs\job code\game\mecha\combat code\game\objects code\game\objects\items\weapons code\modules maps 
-FILE: maps\tgstation2.dmm
+DIR: code code\datums\diseases code\datums\spells code\defines code\defines\obj code\game\area code\game\gamemodes\events code\game\gamemodes\wizard code\game\jobs\job code\game\mecha\combat code\game\objects code\game\objects\items\weapons code\modules maps 
+FILE: code\defines\obj\hydro.dm
 LAST_COMPILE_TIME: 1400861277
 AUTO_FILE_DIR: OFF
 */
